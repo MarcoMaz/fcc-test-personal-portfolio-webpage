@@ -1,19 +1,14 @@
 <h1>Personal Porfolio Webpage</h1>
 <h2>Description</h2>
-<p>FCC Project of a basic portfolio built using Html5, Css3, and Scss.</p>
+<p>FCC Project of a basic portfolio.</p>
 <h2>Technologies used</h2>
 <ul>
 <li>Html5</li>
 <li>Css3</li>
-<li>Scss</li>
 </ul>
-<h2>Where to find the project...</h2>
+<h2>Demo</h2>
 <p>
-Click <a href="https://s.codepen.io/vinniezappa/full/pKeaxZ/yPAJjXBLvLEA" target="_blank"> here</a>
-or in the image below <br/><br/>
-<a href="https://s.codepen.io/vinniezappa/full/pKeaxZ/yPAJjXBLvLEA" target="_blank">
-<img src="https://www.dropbox.com/s/bsgtcjfq7paporq/11-personal-portfolio.jpg?raw=1" target="_blank">
-</a>
+<a href="https://marcomaz.github.io/FCC-Responsive-Web-Design-Projects---Build-a-Personal-Portfolio-Webpage/" target="_blank">Here</a>
 </p>
 <h2>User Stories</h2>
 <ul>
